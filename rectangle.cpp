@@ -12,6 +12,6 @@ int main() {
 	int perimeter = 2*(a + b);
 	cout << "Perimeter: " << perimeter << endl;
 	cout << "Square:" << (a*b) << endl;
-	cout << "Diagonal lrngth : "<< sqrt(a*a+b*b);
+	cout << "Diagonal length : "<< sqrt(a*a+b*b);
 	return 0;
 }
