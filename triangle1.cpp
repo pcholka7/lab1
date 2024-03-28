@@ -18,7 +18,7 @@ int main() {
 		cout << "Triangle is isosceles.";
 	}
 	else {
-		cout << "Triangle is equilateral.";
+		cout << "Triangle is triangle.";
 	}
 
 	
