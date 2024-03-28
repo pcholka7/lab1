@@ -5,11 +5,11 @@ using namespace std;
 
 int main() {
 	int a, b, c;
-	cout << "Enter the first number : ";
+	cout << "Enter the first number: ";
 	cin >> a;
-	cout << "Enter the second number : ";
+	cout << "Enter the second number: ";
 	cin >> b;
-	cout << "Enter the third number : ";
+	cout << "Enter the third number: ";
 	cin >> c;
 	int perimeter = a + b + c;
 	cout << "Perimeter: " << perimeter << endl;
